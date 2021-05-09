@@ -4,14 +4,8 @@
 #include "last_resort.h"
 #include <vector>
 
-bool last_resort(const std::vector<float>& nodes_in, std::vector<int> tris_in)
+bool last_resort::last_resort(const std::vector<float>& nodes_in, std::vector<int> tris_in, std::vector<int> tets)
 {
 	
 	
-}
-
-int main()
-{
-
-	return 0;
 }
