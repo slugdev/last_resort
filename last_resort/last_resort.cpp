@@ -2,8 +2,13 @@
 //
 
 #include "last_resort.h"
+#include <vector>
 
-bool last_resort(float* nodes_in, int node_cnt, int* tris_in)
+bool last_resort(const std::vector<float>& nodes_in, std::vector<int> tris_in)
+{
+	
+	
+}
 
 int main()
 {
