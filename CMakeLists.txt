@@ -3,7 +3,7 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-project ("last_resort")
+project ("smesh")
 
 # Include sub-projects.
-add_subdirectory ("last_resort")
+add_subdirectory ("smesh")
